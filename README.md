@@ -5,7 +5,7 @@
 ![joanie](http://www.image-heberg.fr/files/1663097903702708610.jpg)
 ## Joanie DARSCH
 ***
-***COORDONNÉES**
+***COORDONNÉES***
     * **Téléphone** 06 30 XX XX XX
     * **Mail** trucbidule@gmail.com
     * **Adresse** P SHERMAN, 42, Wallaby Way SYDNEY
