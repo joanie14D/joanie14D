@@ -5,7 +5,7 @@
 ![joanie](http://www.image-heberg.fr/files/1663097903702708610.jpg)
 ## Joanie DARSCH
 ***
-***COORDONNÉES***
+* **COORDONNÉES**
     * **Téléphone** 06 30 XX XX XX
     * **Mail** trucbidule@gmail.com
     * **Adresse** P SHERMAN, 42, Wallaby Way SYDNEY
@@ -23,7 +23,8 @@ _2007_
 * **TRIMET** 2022
 _Stage d'immersion au service Achat, Expédition, Ingénierie._
 * **DOCAPOST** 2015 - 2016
-_Agent Technique (Traitement de courrier, dispatching dans les différents services, numérisations, vidéo-codage et saisies numériques)._
+_Agent Technique (Traitement de courrier, dispatching dans les 
+différents services,numérisations, vidéo-codage et saisies numériques)._
 * **PCVS** 2014 - 2015
 _Secrétaire (Standard, achat)._
 * **PIMKIE** 2013
@@ -45,3 +46,8 @@ _Secrétaire (Standard, achat)_
 * Ski, Longboard, Running.
 * Voyages, Photographies, Cinéma.
 * Lire, Histoire, Dessins, Art.
+
+
+
+
+
